@@ -2,7 +2,7 @@
 Contributors: drebbitsweb
 Tags: acf, custom fields, message field, message, php, add on
 Requires at least: 3.8
-Tested up to: 4.0
+Tested up to: 4.1
 License: GPLv2 or later
 
 Adds an enhanced version of the default Message field to accept PHP and certainly no wpauto().
@@ -16,7 +16,9 @@ Features:
 * Support PHP.
 * Option to hide label when field is displayed.
 
-Compatible with Advanced Custom Fields 4 & 5 (PRO).
+Compatible with Advanced Custom Fields: 
+* 4
+* 5 (PRO, tested up to 5.1.5).
 
 PS: You need [Advanced Custom Fields](https://wordpress.org/plugins/advanced-custom-fields/) installed to use this.   
 
