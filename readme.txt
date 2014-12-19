@@ -16,10 +16,10 @@ Features:
 * Support PHP.
 * Option to hide label when field is displayed.
 
-Compatible with Advanced Custom Fields: 
 
-* 4
-* 5 (PRO, tested up to 5.1.5)
+Compatible with Advanced Custom Fields: 
+* 4.
+* 5 (PRO, tested up to 5.1.5).
 
 PS: You need [Advanced Custom Fields](https://wordpress.org/plugins/advanced-custom-fields/) installed to use this.   
 
