@@ -1,5 +1,5 @@
 === ACF Enhanced Message Field ===
-Contributors: drebbitsweb
+Contributors: drebbits.web
 Tags: acf, custom fields, message field, message, php, add on
 Requires at least: 3.8
 Tested up to: 4.1
