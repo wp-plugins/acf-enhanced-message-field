@@ -1,8 +1,8 @@
 === ACF Enhanced Message Field ===
-Contributors: drebbitsweb
+Contributors: drebbits.web
 Tags: acf, custom fields, message field, message, php, add on
 Requires at least: 3.8
-Tested up to: 4.1
+Tested up to: 4.2.2
 License: GPLv2 or later
 
 Adds an enhanced version of the default Message field to accept PHP and certainly no wpauto().
@@ -19,8 +19,8 @@ Features:
 
 Compatible with Advanced Custom Fields:
 
-* 4
-* 5 (PRO, tested up to 5.1.5)
+* 4 (tested up to 4.4.2)
+* 5 (PRO, tested up to 5.2.6)
 
 
 PS: You need [Advanced Custom Fields](https://wordpress.org/plugins/advanced-custom-fields/) installed to use this.   
@@ -42,18 +42,10 @@ Me: Yes.
 = You: I have more question =
 Me: Feel free to create a support thread and i'll try my best to get on with it.
 
-
-== Screenshots ==
-
-1. Adding field of type Enhanced Message on the custom fields editor.
-
-2. Example display on the edit screen.
-
-3. Example use when there's a common instruction/message to all fields in a tab (on the edit screen).
-
-
 == Changelog ==
+
+= 1.0.1 =
+* __Fix__: Updated the prefix of group fields to hide again fields that are not necessary/required.
 
 = 1.0 =
 * First release, fresh and innocent but will get you there.
-

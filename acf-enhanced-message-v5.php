@@ -57,9 +57,9 @@ class acf_field_enhanced_message extends acf_field {
 	function field_group_admin_head() {
 		?>
 <style>
-	.acf-field-list .field_type-enhanced_message tr[data-name="name"], 
-	.acf-field-list .field_type-enhanced_message tr[data-name="instructions"], 
-	.acf-field-list .field_type-enhanced_message tr[data-name="required"] { display: none; }
+	.acf-field-list .acf-field-object-enhanced-message tr[data-name="name"], 
+	.acf-field-list .acf-field-object-enhanced-message tr[data-name="instructions"], 
+	.acf-field-list .acf-field-object-enhanced-message tr[data-name="required"] { display: none; }
 </style>
 		<?php
 	}
