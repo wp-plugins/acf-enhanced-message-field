@@ -2,7 +2,7 @@
 /*
 Plugin Name: ACF Enhanced Message Field
 Description: Adds an enhanced version of the default Message field to accept PHP and certainly no wpauto().
-Version: 1.0
+Version: 1.0.1
 Author: Dreb Bits
 Author URI: http://drebbits.com
 */
